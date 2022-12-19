@@ -221,7 +221,7 @@
       "name": "Mivie Token",
       "symbol": "MET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/mivie_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/mivie_logo.jpg"
     },
     {
       "chainId": 1,
@@ -634,7 +634,7 @@
       "name": "Mivie Token",
       "symbol": "MET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/mivie_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/mivie_logo.jpg"
     },
     {
       "chainId": 5,
