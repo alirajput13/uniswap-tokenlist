@@ -220,14 +220,16 @@
       "address": "0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
       "name": "Mivie Token",
       "symbol": "MET",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/mivie_logo.png"
     },
     {
       "chainId": 1,
       "address": "0x8610b0Cf2F90F7a552ff73583857a0a5d2F3dC44",
       "name": "ENVY PETS",
       "symbol": "NVPT",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/envypets_logo.png"
     },
     {
       "chainId": 3,
@@ -625,6 +627,22 @@
       "symbol": "SAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0x2a0cc5fec669244a9649b44adbfe2cb9364bdf30",
+      "name": "Mivie Token",
+      "symbol": "MET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/mivie_logo.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x69ad0ba707e4a09abf7d5bd7e58d6007a5526c23",
+      "name": "ENVY PETS",
+      "symbol": "NVPT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/alirajput13/uniswap-tokenlist/main/envypets_logo.png"
     },
     {
       "chainId": 42,
